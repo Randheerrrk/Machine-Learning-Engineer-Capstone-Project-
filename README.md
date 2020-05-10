@@ -6,3 +6,33 @@ The goal of this project is to build a NN that can classfify humans and dogs, al
 
 
 ![An output from the mode](https://raw.githubusercontent.com/Randheerrrk/Machine-Learning-Engineer-Capstone-Project-Dog-Breed-Classifier/master/Screenshot%20from%202020-05-10%2013-29-06.png)
+
+The overall flow consists of the following steps:
+
+  1. Import Datasets 
+  1. Detect a human
+  1. Detect a dog
+  1. Create a CNN to Classify Dog Breeds 
+  1. Create a CNN to Classify Dog Breeds (using Transfer Learning)
+  1. Write your Algorithm
+  1. Test Your Algorithm
+  
+  Make sure to download all datasets needed to train the model.
+  
+  * Download the dog dataset.  Unzip the folder and place it in this project's home directory, at the location /dogImages.
+  * Download the human dataset.  Unzip the folder and place it in the home diretcory, at location /lfw.
+  
+  ### Repository
+  
+  The original Udacity project instructions can be found [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification).
+  
+  ### Dependencies
+  
+  Click [here](https://github.com/udacity/deep-learning-v2-pytorch) for more information.
+  
+  ###### [Click here](https://github.com/Randheerrrk/Machine-Learning-Engineer-Capstone-Project-Dog-Breed-Classifier/blob/master/dog_app.ipynb) for more details
+  
+  ### Acknowledgments
+  
+  I would like to thank Udacity for giving me this opportunity to work on an awesome project.
+  
