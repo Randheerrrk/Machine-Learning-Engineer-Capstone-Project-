@@ -19,8 +19,8 @@ The overall flow consists of the following steps:
   
   Make sure to download all datasets needed to train the model.
   
-  * Download the dog dataset.  Unzip the folder and place it in this project's home directory, at the location /dogImages.
-  * Download the human dataset.  Unzip the folder and place it in the home diretcory, at location /lfw.
+  * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in this project's home directory, at the location /dogImages.
+  * Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the home diretcory, at location /lfw.
   
   ### Repository
   
