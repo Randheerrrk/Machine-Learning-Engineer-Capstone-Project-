@@ -1,7 +1,7 @@
-# Machine-Learning-Engineer-Capstone-Project-
-This is repository contains my capstone project for the machine learing engineer nano degree 
+# Machine-Learning-Engineer-Capstone-Project
+This is repository contains my capstone project **Dog Breed Classification** for the machine learing engineer nano degree 
 
-###Project Goal
+### Project Goal
 The goal of this project is to build a NN that can classfify humans and dogs, also predict the dog breed. The model can be used in any kind of applications such as mobile or web app. The model accepts an image from the user. The image can be of any shape. Then the model process the image and predict which kind of a dog it is. If the image contains a human then, it will provide an estimate of the dog breed that is most resembling.
 
 
